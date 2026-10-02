@@ -1,0 +1,6 @@
+{
+  "name": "Thomaz Prado - Ovos Orgânicos & Criação Sustentável",
+  "description": "Venda de ovos orgânicos de galinhas criadas soltas e felizes no pasto. Nutrição de verdade, sustentabilidade e bem-estar animal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
